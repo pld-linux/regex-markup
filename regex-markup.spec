@@ -1,13 +1,13 @@
 Summary:	Regex-markup performs regular expression-based text markup
 Summary(pl):	Narzêdzie do kolorowania wyników dowolnych poleceñ
 Name:		regex-markup
-Version:	0.9.0
+Version:	0.10.0
 Release:	1
 License:	GPL v2
 Group:		Applications/Text
-Source0:	http://www.student.lu.se/~nbi98oli/src/%{name}-%{version}.tar.gz
-# Source0-md5:	33d7b6b2350d420e6ac9620f40043376
-URL:		http://www.student.lu.se/~nbi98oli/regex-markup.html
+Source0:	http://savannah.nongnu.org/download/regex-markup/%{name}-%{version}.tar.gz
+# Source0-md5:	47f9df1cd3865d20aecd6d73e7a7518d
+URL:		http://www.nongnu.org/regex-markup/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
