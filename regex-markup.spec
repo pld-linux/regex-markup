@@ -1,5 +1,5 @@
 Summary:	Regex-markup performs regular expression-based text markup
-Summary(pl.UTF-8):   Narzędzie do kolorowania wyników dowolnych poleceń
+Summary(pl.UTF-8):	Narzędzie do kolorowania wyników dowolnych poleceń
 Name:		regex-markup
 Version:	0.10.0
 Release:	1
