@@ -1,5 +1,5 @@
 Summary:	Regex-markup performs regular expression-based text markup
-Summary(pl):	NarzÍdzie do kolorowania wynikÛw dowolnych poleceÒ
+Summary(pl.UTF-8):   Narzƒôdzie do kolorowania wynik√≥w dowolnych polece≈Ñ
 Name:		regex-markup
 Version:	0.10.0
 Release:	1
@@ -18,13 +18,13 @@ hierarchal rules-format is simple to understand, yet very powerful.
 Regex-markup is written entirely in C, and uses POSIX regular
 expressions to do much of its work.
 
-%description -l pl
-Regex-markup koloruje tekst bazuj±c na zasadach zdefiniowanych przez
-uøytkownika. Regex-markup moøe byÊ uøyty do kolorowania logÛw
-systemowych, jak i do kolorowania danych wyj∂ciowych takich programÛw
-jak ping, traceroute czy gcc. Hierarchiczny format regu≥ jest ≥atwy do
-zrozumienia, a zarazem posiadaj±cy duøe moøliwo∂ci. Regex-markup jest
-napisany w C i w duøym stopniu dzia≥a w oparciu o wyraøenia regularne
+%description -l pl.UTF-8
+Regex-markup koloruje tekst bazujƒÖc na zasadach zdefiniowanych przez
+u≈ºytkownika. Regex-markup mo≈ºe byƒá u≈ºyty do kolorowania log√≥w
+systemowych, jak i do kolorowania danych wyj≈õciowych takich program√≥w
+jak ping, traceroute czy gcc. Hierarchiczny format regu≈Ç jest ≈Çatwy do
+zrozumienia, a zarazem posiadajƒÖcy du≈ºe mo≈ºliwo≈õci. Regex-markup jest
+napisany w C i w du≈ºym stopniu dzia≈Ça w oparciu o wyra≈ºenia regularne
 POSIX.
 
 %prep
